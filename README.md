@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaofuuu
 <!-- - 👀 I’m interested in data analysis  -->
-- 🌱 I’m currently learning vue3 + typescript, python
+- 🌱 I’m currently learning React，typescript, python3
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... --- >
 
